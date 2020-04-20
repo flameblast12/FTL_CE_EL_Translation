@@ -1,0 +1,31 @@
+<metadata>
+  <title><![CDATA[ CE Enless Loot Addon ]]></title>
+  <threadUrl><![CDATA[ http://www.ftlgame.com/forum/viewtopic.php?f=11&t=15663 ]]></threadUrl>
+  <author><![CDATA[ RannI / Sleeper Service ]]></author>
+  <version><![CDATA[ check file name ]]></version>
+  <description>
+<![CDATA[
+
+This is the CE Enless Loot addon designed for standard CE.
+It is not really designed to be used with Infinite, but it can be done. The following features will then be disabled:
+- exponetial growing upgrade costs 
+- deeps space elite enemies from sector 5 onwards
+
+Some people asked for these changes anyway, so I guess they got them now.
+
+
+
+The CE Endless Loot Addon introduces procedural content generation in FTL. This component of CE has been made possible entirely by the efforts of RannI, who programmed the tool that generates the content.
+
+His tool uses a technique similar to what is done in classic and current loot based games, like Diablo or Boarderlands. Each base weapon and drone can have various prefixes applied to it. Prefixes alter certain stats of the item for the good or worse, resulting in a broad variate of gear. A very broad variety actually, we are talking thousands and maybe even ten thousands of items once we get multy-prefix support to not overwhelm SMM with the sheer amount of blueprints.
+
+Each item variation behaves and plays slightly or vastly different than another. Weapons and drones might be outdated or upgraded, modified for special roles or striped of certain functions. All these changes are also reflected in the price and rarity of the item. We are currently working on having the content also feature a different visual appearance.
+
+But the Addon does not just broadly diversify gear (weapons and drones that is), it also does the same for enemies. You might encounter hostiles that are already damaged, or have additional armor plating. Ships might be out of ammo when engaging your, or they might be on resupply duty, carrying additional missiles and drone parts. Enemy crew might be decimated by previous engagements with other forces. Enemy ships might even be refitdc to perform better in a certain area, or they might be equipped with specialized augments for certain purposes.
+
+The procedural generated content addon offers a wider range of good and bad gear than regular CE. It also makes enemies way more unpredictable, unless you play with the sub-addon that inhibits enemies from using the the gear (which is what I generally recommend.) This addon makes the game more rich, but also more random. It is mainly designed to be used with CE Infinte. The sandbox environment of endless play is, in my oppinion, where it works best and feels most natural.
+
+]]>
+  </description>
+</metadata>
+
